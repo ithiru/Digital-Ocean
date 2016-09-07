@@ -1,0 +1,12 @@
+alias l="ls -lath"
+alias rn="/root/dockers/restart-nginx.sh"
+alias rp="/root/dockers/restart-php.sh"
+alias rs="/root/dockers/restart-mysql.sh"
+
+alias sn="/root/dockers/start-nginx.sh"
+alias sp="/root/dockers/start-php.sh"
+alias sm="/root/dockers/start-mysql.sh"
+
+alias tn="docker stop nginx"
+alias tp="docker stop php"
+alias tm="docker stop mysql"
